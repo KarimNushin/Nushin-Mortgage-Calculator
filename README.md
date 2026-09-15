@@ -1,4 +1,4 @@
-# Nushin Mortgage Calculator
+#  Mortgage Calculator
 
 A desktop mortgage calculator built in **Java 17 + Swing** by **Karim Nushin**.
 
